@@ -31,3 +31,5 @@ go run main.go
 ```bash
 go run main.go
 ```
+
+# Fell free to copy, use and contribute. :D
